@@ -64,7 +64,7 @@ Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
 - Legecy Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://github.com/Sahilsoni291/MusicPlayer
 $ cd MusicPlayer
 $ sudo apt install git curl python3-pip ffmpeg -y
 $ pip3 install -U pip
@@ -80,7 +80,7 @@ $ python3 main.py
 
 - Docker Build Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://github.com/Sahilsoni291/MusicPlayer
 $ cd MusicPlayer
 $ cp sample.env .env
 # < edit .env with your own values >
